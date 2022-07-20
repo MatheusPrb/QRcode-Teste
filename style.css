@@ -1,3 +1,14 @@
 body {
-    background-color: hsl(212, 45%, 89%);
+    background-color: hsl(212, 45%, 89%)
+}
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 20%;
+    height: 400px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%); 
+    
 }
